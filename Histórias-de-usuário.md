@@ -31,3 +31,24 @@ O chatbot deve reconhecer perguntas frequentes relacionadas à formatação de t
 Caso o chatbot não possua a resposta desejada, ele deve orientar os estudantes sobre onde encontrar informações adicionais, como manuais de estilo, documentos de referência ou encaminhá-los a um professor ou orientador para assistência adicional.
 
 O chatbot deve ser capaz de lidar com interações complexas, permitindo que os estudantes façam perguntas de acompanhamento ou solicitem exemplos específicos de formatação.
+
+
+
+
+# Título: Explorando todo o potencial do SIGAA com a ajuda do chatbot
+
+- Descrição: Como técnico dedicado ao suporte acadêmico dos estudantes, desejo que o chatbot seja capaz de responder a dúvidas relacionadas ao uso do SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas), pois acredito que muitos estudantes podem não estar aproveitando todo o potencial dessa ferramenta por não perceberem a interface como intuitiva. Com um suporte mais acessível e orientações claras, os estudantes poderão explorar melhor os recursos do SIGAA, otimizando sua experiência acadêmica.
+
+- Critérios de aceitação:
+
+O chatbot deve possuir conhecimento completo sobre a funcionalidade e recursos do SIGAA, incluindo acesso a informações atualizadas sobre as áreas acadêmicas cobertas pela ferramenta, como matrículas, notas, frequência, calendário acadêmico, entre outros.
+
+Quando questionado sobre processos específicos do SIGAA, o chatbot deve fornecer respostas detalhadas e passo a passo, auxiliando os estudantes em suas tarefas acadêmicas diárias.
+
+O chatbot deve ser capaz de identificar dúvidas recorrentes relacionadas ao uso do SIGAA e fornecer orientações adicionais para esclarecer conceitos complexos ou recursos pouco explorados.
+
+Caso o chatbot não possua a resposta desejada, ele deve oferecer opções de contato para o suporte técnico oficial do SIGAA ou encaminhar os estudantes para um especialista responsável pelo sistema.
+
+O chatbot deve ser adaptável a diferentes níveis de experiência dos estudantes, fornecendo explicações simples para usuários iniciantes e informações mais avançadas para aqueles com maior familiaridade com o sistema.
+
+
