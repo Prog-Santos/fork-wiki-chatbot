@@ -1,5 +1,6 @@
 * [Home](https://github.com/luan-github/polimata-chatbot/wiki)
 * [Requisitos](https://github.com/luan-github/polimata-chatbot/wiki#requisitos)
+  - [Quadro de Funcionalidades](https://github.com/luan-github/polimata-chatbot/wiki/Quadro-de-Funcionalidades)
 * [Histórias de Usuários](https://github.com/luan-github/polimata-chatbot/wiki#hist%C3%B3rias-de-usu%C3%A1rio)
   - [Modelo Tradicional](https://github.com/luan-github/polimata-chatbot/wiki/Hist%C3%B3rias-de-usu%C3%A1rio)
   - [Modelo Ágil](https://github.com/luan-github/polimata-chatbot/wiki/Modelo-%C3%81gil)
