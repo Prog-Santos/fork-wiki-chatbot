@@ -3,7 +3,7 @@
 * [Histórias de Usuários](https://github.com/luan-github/polimata-chatbot/wiki#hist%C3%B3rias-de-usu%C3%A1rio)
   - [Modelo Tradicional](https://github.com/luan-github/polimata-chatbot/wiki/Hist%C3%B3rias-de-usu%C3%A1rio)
   - [Modelo Ágil](https://github.com/luan-github/polimata-chatbot/wiki/Modelo-%C3%81gil)
-* [Cenários](https://github.com/luan-github/polimata-chatbot/wiki#cen%C3%A1rios)
+* [Cenários](https://github.com/luan-github/polimata-chatbot/wiki/Cen%C3%A1rios)
 * [Testes e Avaliação](https://github.com/luan-github/polimata-chatbot/wiki#teste-e-avalia%C3%A7%C3%A3o)
   - [Testes Funcionais](https://github.com/luan-github/polimata-chatbot/wiki/Testes-Funcionais)
   - [Testes de Usuários](https://github.com/luan-github/polimata-chatbot/wiki/Testes-de-Usu%C3%A1rios)
