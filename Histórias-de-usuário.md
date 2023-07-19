@@ -52,3 +52,19 @@ Caso o chatbot não possua a resposta desejada, ele deve oferecer opções de co
 O chatbot deve ser adaptável a diferentes níveis de experiência dos estudantes, fornecendo explicações simples para usuários iniciantes e informações mais avançadas para aqueles com maior familiaridade com o sistema.
 
 
+
+
+# Título: Facilitando o acesso ao cardápio do restaurante universitário através do chatbot
+
+- Descrição: Como professor engajado em proporcionar uma experiência acadêmica agradável aos alunos, desejo que o chatbot seja capaz de fornecer informações atualizadas sobre o cardápio do restaurante universitário. Essa facilidade é útil tanto para mim quanto para os alunos, pois nos permite planejar nossas refeições de forma mais conveniente e garantir que as opções alimentares atendam às nossas preferências e necessidades diárias.
+
+- Critérios de aceitação:
+
+O chatbot deve ter acesso a informações em tempo real sobre o cardápio do restaurante universitário, incluindo opções para o café da manhã, almoço e jantar.
+
+Quando questionado sobre o cardápio de um dia específico ou uma refeição em particular, o chatbot deve fornecer uma lista completa dos pratos disponíveis, bem como informações sobre ingredientes, alergênicos e opções vegetarianas ou veganas.
+O chatbot deve ser capaz de informar sobre eventuais alterações ou adicionais no cardápio, como dias temáticos ou opções especiais para eventos ou celebrações.
+
+Caso o chatbot não tenha acesso a informações atualizadas do cardápio, ele deve direcionar os usuários para fontes oficiais do restaurante universitário onde possam encontrar as informações mais recentes.
+
+O chatbot deve ser de fácil acesso e estar disponível em diferentes plataformas, como aplicativo móvel e site, para que professores e alunos possam consultar o cardápio de forma rápida e conveniente.
