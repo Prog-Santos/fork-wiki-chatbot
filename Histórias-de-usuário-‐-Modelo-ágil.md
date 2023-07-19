@@ -1,4 +1,4 @@
-### Histórias de usuário( Modelo ágil):
+### Histórias de usuário( Modelo ágil ):
 
 Como técnico, gostaria que o chatbot respondesse dúvidas cujas respostas são encontradas no Blog do curso, principalmente relacionadas aos documentos de estágio e TCC, pois são as perguntas que eles realizam com mais frequência.
 
