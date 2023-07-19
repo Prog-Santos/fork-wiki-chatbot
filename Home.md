@@ -15,7 +15,7 @@ O chatbot deve ser capaz de reconhecer as perguntas mais frequentes sobre os doc
 Caso a resposta solicitada não esteja disponível no Blog do curso, o chatbot deve fornecer orientações adicionais sobre como os estudantes podem obter suporte adicional ou entrar em contato com os responsáveis pelo curso.
 O chatbot deve ser capaz de lidar com múltiplas interações, permitindo que os estudantes façam perguntas de acompanhamento ou solicitem esclarecimentos adicionais.
 
-- Título: Suporte abrangente à formatação de trabalhos acadêmicos pelo chatbot
+ Título: Suporte abrangente à formatação de trabalhos acadêmicos pelo chatbot
 
 - Descrição: Como professor responsável pela orientação dos estudantes, gostaria que o chatbot oferecesse suporte abrangente e preciso para responder às dúvidas frequentes dos estudantes sobre a formatação de trabalhos acadêmicos, como TCC, artigos, tabelas, quadros e referências. Isso permitirá que os estudantes acessem prontamente as informações necessárias para garantir a correta estruturação de seus trabalhos, promovendo a qualidade acadêmica.
 
