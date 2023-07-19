@@ -5,7 +5,7 @@
   - [Modelo Ágil](https://github.com/luan-github/polimata-chatbot/wiki/Modelo-%C3%81gil)
 * [Cenários](https://github.com/luan-github/polimata-chatbot/wiki#cen%C3%A1rios)
 * [Testes e Avaliação](https://github.com/luan-github/polimata-chatbot/wiki#teste-e-avalia%C3%A7%C3%A3o)
-  - [Testes Funcionais]()
+  - [Testes Funcionais](https://github.com/luan-github/polimata-chatbot/wiki/Testes-Funcionais)
   - [Testes de Usuários](https://github.com/luan-github/polimata-chatbot/wiki/Testes-de-Usu%C3%A1rios)
 * [Contribuição](https://github.com/luan-github/polimata-chatbot/wiki/Contribui%C3%A7%C3%A3o)
 * [Sugestões de fontes para estudo](https://github.com/luan-github/polimata-chatbot/wiki/Sugest%C3%B5es-de-Fontes-para-Estudo)
