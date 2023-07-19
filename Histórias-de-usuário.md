@@ -3,6 +3,7 @@
 
 - Descrição: Como técnico responsável pelo suporte aos estudantes, desejo que o chatbot seja capaz de responder prontamente às dúvidas mais frequentes sobre os documentos de estágio e TCC, que geralmente são encontradas no Blog do curso. Isso irá agilizar o processo de atendimento, permitindo que os estudantes encontrem respostas relevantes de forma rápida e eficiente.
 - Critérios de aceitação:
+
 O chatbot deve ter acesso e conhecimento atualizado sobre o conteúdo do Blog do curso, principalmente as seções relacionadas aos documentos de estágio e TCC.
 
 Quando questionado sobre dúvidas específicas sobre os documentos de estágio, o chatbot deve fornecer respostas claras e precisas, incluindo informações sobre formatação, prazos, requisitos e procedimentos.
