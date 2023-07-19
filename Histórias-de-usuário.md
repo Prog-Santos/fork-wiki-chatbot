@@ -1,5 +1,5 @@
 ### Histórias de Usuário
-Título: Acesso rápido às informações sobre estágio e TCC no Blog do curso
+#Título: Acesso rápido às informações sobre estágio e TCC no Blog do curso
 
 - Descrição: Como técnico responsável pelo suporte aos estudantes, desejo que o chatbot seja capaz de responder prontamente às dúvidas mais frequentes sobre os documentos de estágio e TCC, que geralmente são encontradas no Blog do curso. Isso irá agilizar o processo de atendimento, permitindo que os estudantes encontrem respostas relevantes de forma rápida e eficiente.
 - Critérios de aceitação:
@@ -13,7 +13,7 @@ Caso a resposta solicitada não esteja disponível no Blog do curso, o chatbot d
 
 O chatbot deve ser capaz de lidar com múltiplas interações, permitindo que os estudantes façam perguntas de acompanhamento ou solicitem esclarecimentos adicionais.
 
- Título: Suporte abrangente à formatação de trabalhos acadêmicos pelo chatbot
+ #Título: Suporte abrangente à formatação de trabalhos acadêmicos pelo chatbot
 
 - Descrição: Como professor responsável pela orientação dos estudantes, gostaria que o chatbot oferecesse suporte abrangente e preciso para responder às dúvidas frequentes dos estudantes sobre a formatação de trabalhos acadêmicos, como TCC, artigos, tabelas, quadros e referências. Isso permitirá que os estudantes acessem prontamente as informações necessárias para garantir a correta estruturação de seus trabalhos, promovendo a qualidade acadêmica.
 
