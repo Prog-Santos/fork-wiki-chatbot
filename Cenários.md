@@ -1,4 +1,8 @@
 ### Cenários
+Título: Acesso rápido às informações sobre estágio e TCC no Blog do curso
+
+- Descrição: Como técnico responsável pelo suporte aos estudantes, desejo que o chatbot seja capaz de responder prontamente às dúvidas mais frequentes sobre os documentos de estágio e TCC, que geralmente são encontradas no Blog do curso. Isso irá agilizar o processo de atendimento, permitindo que os estudantes encontrem respostas relevantes de forma rápida e eficiente.
+
 - Cenário 1:
 Estudante: "Olá! Tenho dúvidas sobre a formatação do meu relatório de estágio. Como devo estruturá-lo?"
 Chatbot: "Olá! No Blog do curso, você pode encontrar um guia completo sobre a formatação do relatório de estágio. Acesse a seção 'Documentos de Estágio' no menu principal e lá você encontrará todas as orientações necessárias, incluindo a estrutura recomendada, margens, fonte, espaçamento, entre outros detalhes."
