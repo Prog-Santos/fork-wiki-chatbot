@@ -31,13 +31,11 @@ Legenda: \*\*\*Item essêncial | \*\*Item importante | \*Item desejável
    O chatbot não pode ter integração com serviços da universidade que envolvam o tráfego de informações sensíveis dos estudantes, professores ou técnicos, como e-mails, senhas, notas, números de matrícula, etc.
 
 ### Requisitos Funcionais
-RF1 - Responder dúvidas cujas respostas sejam encontradas no Regimento Geral da
-universidade.
+RF1 - Responder dúvidas cujas respostas sejam encontradas no Regimento Geral da universidade.
 
 RF2 - Responder dúvidas cujas respostas sejam encontradas no blog do curso de computação.
 
-RF3 - Responder dúvidas relacionadas ao regulamento para realização do Trabalho de
-Conclusão de Curso - TCC.
+RF3 - Responder dúvidas relacionadas ao regulamento para realização do Trabalho de Conclusão de Curso - TCC.
 
 RF4 - Responder dúvidas relacionadas ao regulamento para Atividades de Estágio.
 
@@ -45,14 +43,11 @@ RF5 - Responder dúvidas sobre o uso do SIGAA.
 
 RF6 - Responder dúvidas quanto a ementa e bibliografia das disciplinas.
 
-RF7 - Orientar os estudantes sobre como buscar informações relacionadas ao andamento da
-disciplina em fontes como SIGAA e Blog para sanar perguntas sobre adiamento de aulas,
-horários e datas de avaliação.
+RF7 - Orientar os estudantes sobre como buscar informações relacionadas ao andamento da disciplina em fontes como SIGAA e Blog para sanar perguntas sobre adiamento de aulas, horários e datas de avaliação.
 
 RF8 - Responder dúvidas quanto a formatação de artigos e trabalhos acadêmicos.
 
-RF9 - Auxiliar os alunos em estratégias de aprendizagem que podem ter sido usadas pelos
-veteranos.
+RF9 - Auxiliar os alunos em estratégias de aprendizagem que podem ter sido usadas pelos veteranos.
 
 RF10 - Responder dúvidas sobre o centro acadêmico.
 
@@ -60,15 +55,13 @@ RF11 - Responder dúvidas sobre a Atlética.
 
 RF12 - Responder dúvidas relacionadas às normas de avaliação da universidade
 
-RF13 - Apresentar ou encaminhar os acadêmicos aos departamentos, setores e serviços da
-universidade.
+RF13 - Apresentar ou encaminhar os acadêmicos aos departamentos, setores e serviços da universidade.
 
 RF14 - Auxiliar na localização de blocos de cursos, laboratórios, setores e serviços.
 
 RF15 - Explicar quais linhas de ônibus chegam à universidade.
 
-RF16 - Explicar como funcionam as eleições para reitoria e atribuição de cargos como os de
-reitor ou pró-reitor.
+RF16 - Explicar como funcionam as eleições para reitoria e atribuição de cargos como os de reitor ou pró-reitor.
 
 RF17 - Orientar os acadêmicos quanto a oportunidades de estágio e emprego.
 
@@ -90,14 +83,11 @@ RF24 - Responder dúvidas sobre a coordenação
 
 #### Usabilidade
 
-RNF1 - O chatbot deve responder a mensagens de texto, utilizando se necessário outros
-recursos de interface do aplicativo cliente, como botões e menus.
+RNF1 - O chatbot deve responder a mensagens de texto, utilizando se necessário outros recursos de interface do aplicativo cliente, como botões e menus.
 
 #### Confiabilidade
 
-RNF2 - O chatbot deve ser capaz de alternar entre solicitações de um diálogo identificando
-corretamente as intenções das mensagens dos usuários que estejam dentro do seu domínio de
-atuação.
+RNF2 - O chatbot deve ser capaz de alternar entre solicitações de um diálogo identificando corretamente as intenções das mensagens dos usuários que estejam dentro do seu domínio de atuação.
 
 #### Desempenho
 
