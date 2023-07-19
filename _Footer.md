@@ -1,0 +1,1 @@
+Wiki do Chatbot Polímata - Disponível sob a licença GPL3. Veja [LICENSE](https://github.com/luan-github/polimata-chatbot/blob/main/LICENSE) para mais informações.
