@@ -1,5 +1,5 @@
 ### Histórias de Usuário
-# Título: Acesso rápido às informações sobre estágio e TCC no Blog do curso
+# Título: Acesso rápido às informações sobre estágio e TCC no Blog do curso.
 
 - Descrição: Como técnico responsável pelo suporte aos estudantes, desejo que o chatbot seja capaz de responder prontamente às dúvidas mais frequentes sobre os documentos de estágio e TCC, que geralmente são encontradas no Blog do curso. Isso irá agilizar o processo de atendimento, permitindo que os estudantes encontrem respostas relevantes de forma rápida e eficiente.
 - Critérios de aceitação:
@@ -14,7 +14,7 @@ Caso a resposta solicitada não esteja disponível no Blog do curso, o chatbot d
 
 O chatbot deve ser capaz de lidar com múltiplas interações, permitindo que os estudantes façam perguntas de acompanhamento ou solicitem esclarecimentos adicionais.
 
- # Título: Suporte abrangente à formatação de trabalhos acadêmicos pelo chatbot
+ # Título: Suporte abrangente à formatação de trabalhos acadêmicos pelo chatbot.
 
 - Descrição: Como professor responsável pela orientação dos estudantes, gostaria que o chatbot oferecesse suporte abrangente e preciso para responder às dúvidas frequentes dos estudantes sobre a formatação de trabalhos acadêmicos, como TCC, artigos, tabelas, quadros e referências. Isso permitirá que os estudantes acessem prontamente as informações necessárias para garantir a correta estruturação de seus trabalhos, promovendo a qualidade acadêmica.
 
@@ -35,7 +35,7 @@ O chatbot deve ser capaz de lidar com interações complexas, permitindo que os 
 
 
 
-# Título: Explorando todo o potencial do SIGAA com a ajuda do chatbot
+# Título: Explorando todo o potencial do SIGAA com a ajuda do chatbot.
 
 - Descrição: Como técnico dedicado ao suporte acadêmico dos estudantes, desejo que o chatbot seja capaz de responder a dúvidas relacionadas ao uso do SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas), pois acredito que muitos estudantes podem não estar aproveitando todo o potencial dessa ferramenta por não perceberem a interface como intuitiva. Com um suporte mais acessível e orientações claras, os estudantes poderão explorar melhor os recursos do SIGAA, otimizando sua experiência acadêmica.
 
@@ -52,9 +52,7 @@ Caso o chatbot não possua a resposta desejada, ele deve oferecer opções de co
 O chatbot deve ser adaptável a diferentes níveis de experiência dos estudantes, fornecendo explicações simples para usuários iniciantes e informações mais avançadas para aqueles com maior familiaridade com o sistema.
 
 
-
-
-# Título: Facilitando o acesso ao cardápio do restaurante universitário através do chatbot
+# Título: Facilitando o acesso ao cardápio do restaurante universitário através do chatbot.
 
 - Descrição: Como professor engajado em proporcionar uma experiência acadêmica agradável aos alunos, desejo que o chatbot seja capaz de fornecer informações atualizadas sobre o cardápio do restaurante universitário. Essa facilidade é útil tanto para mim quanto para os alunos, pois nos permite planejar nossas refeições de forma mais conveniente e garantir que as opções alimentares atendam às nossas preferências e necessidades diárias.
 
@@ -62,9 +60,12 @@ O chatbot deve ser adaptável a diferentes níveis de experiência dos estudante
 
 O chatbot deve ter acesso a informações em tempo real sobre o cardápio do restaurante universitário, incluindo opções para o café da manhã, almoço e jantar.
 
-Quando questionado sobre o cardápio de um dia específico ou uma refeição em particular, o chatbot deve fornecer uma lista completa dos pratos disponíveis, bem como informações sobre ingredientes, alergênicos e opções vegetarianas ou veganas.
+Quando questionado sobre o cardápio de um dia específico ou uma refeição em particular, o chatbot deve fornecer uma lista completa dos pratos disponíveis.
+
 O chatbot deve ser capaz de informar sobre eventuais alterações ou adicionais no cardápio, como dias temáticos ou opções especiais para eventos ou celebrações.
 
 Caso o chatbot não tenha acesso a informações atualizadas do cardápio, ele deve direcionar os usuários para fontes oficiais do restaurante universitário onde possam encontrar as informações mais recentes.
 
 O chatbot deve ser de fácil acesso e estar disponível em diferentes plataformas, como aplicativo móvel e site, para que professores e alunos possam consultar o cardápio de forma rápida e conveniente.
+
+
