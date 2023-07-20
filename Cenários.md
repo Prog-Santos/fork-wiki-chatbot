@@ -78,7 +78,7 @@ Cenário 2: Consulta de notas e frequência
 
 Estudante: "Chatbot, como posso verificar minhas notas e frequência no SIGAA?"
 
-Chatbot: "Olá! Para verificar suas notas e frequência, acesse o SIGAA e vá até a área de 'Histórico Escolar'. Lá você encontrará todas as informações sobre suas disciplinas, notas obtidas e frequência em cada uma delas. Se tiver alguma dificuldade, não hesite em me perguntar!"
+Chatbot: "Olá! Para verificar suas notas e frequência, acesse o SIGAA e vá até a área de 'Consultar minhas notas'. Lá você encontrará todas as informações sobre suas disciplinas, notas obtidas e frequência em cada uma delas. Se tiver alguma dificuldade, não hesite em me perguntar!"
 
 Cenário 3: Prazos para entrega de trabalhos
 
